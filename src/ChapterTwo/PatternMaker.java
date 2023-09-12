@@ -1,2 +1,4 @@
-package ChapterTwo;public class PatternMaker {
+package ChapterTwo;
+
+public class PatternMaker {
 }

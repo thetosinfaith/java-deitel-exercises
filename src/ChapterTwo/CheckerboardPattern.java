@@ -1,2 +1,4 @@
-package ChapterTwo;public class CheckerboardPattern {
-}
+//package ChapterTwo;
+//
+//public class CheckerboardPattern {
+//}

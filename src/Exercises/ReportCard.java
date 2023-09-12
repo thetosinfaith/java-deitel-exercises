@@ -1,4 +1,4 @@
-package Basic_Exercises;/* Pseudocode
+package Exercises;/* Pseudocode
 
 - Collect User Input
 

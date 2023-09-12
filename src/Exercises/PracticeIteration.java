@@ -1,4 +1,4 @@
-package Basic_Exercises;
+package Exercises;
 
 public class PracticeIteration {
      public static void main(String[] args) {

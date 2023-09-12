@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class RepeatQuery {
+public class AdditionRepeatQuery {
 
     public static void main(String[] args) {
 

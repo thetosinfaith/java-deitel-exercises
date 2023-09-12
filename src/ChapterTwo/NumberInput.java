@@ -1,7 +1,6 @@
-package Chapter_2;
+package ChapterTwo;
 
 import java.util.Scanner;
-
 public class NumberInput {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -14,11 +13,3 @@ public class NumberInput {
     }
 
 }
-
-
-
-
-
-
-
-//    W

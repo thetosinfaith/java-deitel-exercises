@@ -1,4 +1,4 @@
-package SEPTEMBER_ASSIGNMENT;
+package Assignments;
 
 import java.util.Scanner;
 public class NokiaMobilePhone {

@@ -1,4 +1,4 @@
-package Basic_Exercises;
+package Exercises;
 public class RecussionMethod {
     public static void main(String[] args) {
         HelloTee();

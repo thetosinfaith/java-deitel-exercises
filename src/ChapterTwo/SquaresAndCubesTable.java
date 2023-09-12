@@ -1,2 +1,4 @@
-package ChapterTwo;public class SquaresAndCubesTable {
-}
+//package ChapterTwo;
+//
+//public class SquaresAndCubesTable {
+//}

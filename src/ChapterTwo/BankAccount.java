@@ -1,4 +1,4 @@
-package Chapter_2;
+package ChapterTwo;
 
 public class BankAccount {
         private int balance;
@@ -13,9 +13,7 @@ public class BankAccount {
 
         public int checkBalance() {
             return balance;
-
         }
-
         public int getBalance() {
             return balance;
         }

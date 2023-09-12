@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class WeekApp {
+public class DaysOfTheWeek {
 
     public static void main(String[] args) {
 

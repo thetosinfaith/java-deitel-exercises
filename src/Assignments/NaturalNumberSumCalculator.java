@@ -1,6 +1,4 @@
-package SEPTEMBER_ASSIGNMENT;
-
-import java.util.Random;
+package Assignments;
 
 public class NaturalNumberSumCalculator {
     public static void main(String[] args) {

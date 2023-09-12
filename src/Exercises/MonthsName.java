@@ -1,8 +1,8 @@
-package Assignments;
+package Exercises;
 
 import java.util.Scanner;
 
-public class MonthName {
+public class MonthsName {
 
     public static void main(String[] args) {
 

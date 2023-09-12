@@ -1,4 +1,4 @@
-package Basic_Exercises;
+package Exercises;
 
 import java.util.Scanner;
 public class MultiplicationTableGenerator {

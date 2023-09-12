@@ -10,7 +10,7 @@ Use method System.out.printf and two %s format specifiers.
 If the variable number is not equal to 7, display "The variable number is not equal to 7".
  */
 
-package Chapter_2;
+package ChapterTwo;
 
 import java.util.Scanner;
 public class IntegerOperations {

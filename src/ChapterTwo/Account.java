@@ -1,4 +1,4 @@
-package Chapter_2;
+package ChapterTwo;
 
 public class Account {
         private int balance;

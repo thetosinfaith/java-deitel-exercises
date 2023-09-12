@@ -1,4 +1,4 @@
-package Basic_Exercises;
+package Exercises;
 
 public class BasicBankAccount{
     private int accountNumber;

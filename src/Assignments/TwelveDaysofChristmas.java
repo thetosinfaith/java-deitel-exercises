@@ -1,9 +1,7 @@
-package SEPTEMBER_ASSIGNMENT;
+package Assignments;
 
 import java.util.Scanner;
-
 public class TwelveDaysofChristmas {
-
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

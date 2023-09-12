@@ -1,4 +1,4 @@
-package Chapter_2;/*
+package ChapterTwo;/*
 
 Collect user input
 Declare a variable to store the result and make it 1
@@ -31,7 +31,4 @@ public class PositiveInteger {
             }
         }
 
-
-
   }
-
