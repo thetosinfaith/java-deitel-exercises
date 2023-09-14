@@ -7,7 +7,7 @@ public class ByteShortIntLong {
         System.out.println("Integer maximum value: " + Integer.MAX_VALUE);
 
         System.out.println("Short minimum value: " + Short.MAX_VALUE );
-        System.out.println("Integer maximum value: " + Short.MIN_VALUE );
+        System.out.println("Short maximum value: " + Short.MIN_VALUE );
 
         System.out.println("Byte maximum value: " + Byte.MAX_VALUE);
         System.out.println("Byte minimum value: " + Byte.MIN_VALUE);
