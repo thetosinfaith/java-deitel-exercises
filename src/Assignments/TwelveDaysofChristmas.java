@@ -32,6 +32,7 @@ public class TwelveDaysofChristmas {
                         Two turtle doves, and
                         A partridge in a pear tree
                         """);
+
                 case 5 -> System.out.println("""
                         On the fifth day of Christmas my true love sent to me
                         Five golden rings
@@ -100,6 +101,7 @@ public class TwelveDaysofChristmas {
                          Two turtle doves, and
                          A partridge in a pear tree
                         """);
+
                 case 11 -> System.out.println("""
                         On the eleventh day of Christmas, my true love sent to me
                         Eleven pipers piping

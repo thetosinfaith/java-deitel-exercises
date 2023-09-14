@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493fbd9f-e289-4dfc-b583-47866c96ebee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ChapterFour/VariableSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Academy/LearnProgramming/ByteShortIntLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Academy/LearnProgramming/ByteShortIntLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/AdditionRepeatQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/RepeatQuery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Assignments/TwelveDaysofChristmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/TwelveDaysofChristmas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CliqueShoppa/ProductListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CliqueShoppa/ProductListIterator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,9 +112,9 @@
       <recent name="Basic_Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwelveDaysofChristmas">
-    <configuration name="ConvertKilogramsToPounds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Academy.LearnProgramming.ConvertKilogramsToPounds" />
+  <component name="RunManager" selected="Application.ByteShortIntLong">
+    <configuration name="ByteShortIntLong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Academy.LearnProgramming.ByteShortIntLong" />
       <module name="tosinFaith" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DaysOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments.DaysOfTheWeek" />
+    <configuration name="LargestAndSmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments.LargestAndSmallestNumber" />
       <module name="tosinFaith" />
       <extension name="coverage">
         <pattern>
@@ -134,25 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloatAndDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Academy.LearnProgramming.FloatAndDouble" />
+    <configuration name="ProductListIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CliqueShoppa.ProductListIterator" />
       <module name="tosinFaith" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Academy.LearnProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreeIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRank.ThreeIntegers" />
-      <module name="tosinFaith" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HackerRank.*" />
+          <option name="PATTERN" value="CliqueShoppa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,13 +165,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariableSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChapterFour.VariableSum" />
+      <module name="tosinFaith" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChapterFour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ByteShortIntLong" />
+        <item itemvalue="Application.LargestAndSmallestNumber" />
+        <item itemvalue="Application.VariableSum" />
+        <item itemvalue="Application.ProductListIterator" />
         <item itemvalue="Application.TwelveDaysofChristmas" />
-        <item itemvalue="Application.DaysOfTheWeek" />
-        <item itemvalue="Application.ThreeIntegers" />
-        <item itemvalue="Application.ConvertKilogramsToPounds" />
-        <item itemvalue="Application.FloatAndDouble" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +235,7 @@
       <workItem from="1694597343101" duration="3431000" />
       <workItem from="1694604012100" duration="5086000" />
       <workItem from="1694676534334" duration="7430000" />
-      <workItem from="1694699044685" duration="479000" />
+      <workItem from="1694699044685" duration="8812000" />
     </task>
     <servers />
   </component>
@@ -355,7 +360,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CliqueShoppa/ProductListIterator.java</url>
-          <line>158</line>
+          <line>162</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -413,6 +418,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Assignments/RepeatQuery.java</url>
+          <line>7</line>
+          <properties class="Assignments.RepeatQuery" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
