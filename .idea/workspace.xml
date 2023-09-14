@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493fbd9f-e289-4dfc-b583-47866c96ebee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Academy/LearnProgramming/ConvertKilogramsToPounds.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignments/TwelveDaysofChristmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/TwelveDaysofChristmas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +229,7 @@
       <workItem from="1694547392853" duration="461000" />
       <workItem from="1694597343101" duration="3431000" />
       <workItem from="1694604012100" duration="5086000" />
-      <workItem from="1694676534334" duration="4659000" />
+      <workItem from="1694676534334" duration="7430000" />
     </task>
     <servers />
   </component>

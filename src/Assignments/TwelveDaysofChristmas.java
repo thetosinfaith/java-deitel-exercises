@@ -30,7 +30,7 @@ public class TwelveDaysofChristmas {
                             Two turtle doves, and
                             A partridge in a pear tree
                             """);
-
+                    break;
 
                 case 4:
                     System.out.println("""
@@ -40,6 +40,7 @@ public class TwelveDaysofChristmas {
                             Two turtle doves, and
                             A partridge in a pear tree
                             """);
+                    break;
 
                 case 5:
                     System.out.println("""
@@ -50,6 +51,7 @@ public class TwelveDaysofChristmas {
                             Two turtle doves, and
                             A partridge in a pear tree
                             """);
+                    break;
 
                 case 6:
                     System.out.println("""
@@ -61,6 +63,7 @@ public class TwelveDaysofChristmas {
                             Two turtle doves, and
                             A partridge in a pear tree
                             """);
+                    break;
 
                 case 7:
                     System.out.println("""
@@ -73,6 +76,7 @@ public class TwelveDaysofChristmas {
                              Two turtle doves, and
                              A partridge in a pear tree
                             """);
+                    break;
 
                 case 8:
                     System.out.println("""
@@ -86,6 +90,7 @@ public class TwelveDaysofChristmas {
                              Two turtle doves, and
                              A partridge in a pear tree
                             """);
+                    break;
 
                 case 9:
                     System.out.println("""
@@ -133,6 +138,7 @@ public class TwelveDaysofChristmas {
                             Two turtle doves, and
                             A partridge in a pear tree
                             """);
+                    break;
 
                 case 12:
                     System.out.println("""
@@ -150,9 +156,8 @@ public class TwelveDaysofChristmas {
                             Two turtle doves, and
                             A partridge in a pear tree
                             """);
+                    break;
 
-                default:
-                    System.out.println("You're mad!");
             }
 
         }
@@ -160,3 +165,4 @@ public class TwelveDaysofChristmas {
     }
 
 }
+
