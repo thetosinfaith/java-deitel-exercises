@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493fbd9f-e289-4dfc-b583-47866c96ebee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignments/riderCommission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/testRiderPayment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/riderCommission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/RiderCommission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/testRiderPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/testRiderPayment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,29 +110,22 @@
       <recent name="Basic_Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testRiderPayment.testCanCalculateRiderCommission">
-    <configuration name="ByteShortIntLong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Academy.LearnProgramming.ByteShortIntLong" />
+  <component name="RunManager" selected="JUnit.RiderCommissionTest">
+    <configuration name="RiderCommissionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tosinFaith" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Academy.LearnProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RiderCommissionTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestAndSmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments.LargestAndSmallestNumber" />
+    <configuration name="RiderCommissionTest.testCanCalculateIncome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tosinFaith" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RiderCommissionTest" />
+      <option name="METHOD_NAME" value="testCanCalculateIncome" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,11 +139,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testRiderPayment.calculateRiderPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testRiderPayment.cal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tosinFaith" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="testRiderPayment" />
-      <option name="METHOD_NAME" value="calculateRiderPayment" />
+      <option name="METHOD_NAME" value="cal" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -168,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.testRiderPayment.testCanCalculateRiderCommission" />
+        <item itemvalue="JUnit.RiderCommissionTest" />
+        <item itemvalue="JUnit.RiderCommissionTest.testCanCalculateIncome" />
         <item itemvalue="JUnit.testRiderPayment" />
-        <item itemvalue="JUnit.testRiderPayment.calculateRiderPayment" />
-        <item itemvalue="Application.ByteShortIntLong" />
-        <item itemvalue="Application.LargestAndSmallestNumber" />
+        <item itemvalue="JUnit.testRiderPayment.testCanCalculateRiderCommission" />
+        <item itemvalue="JUnit.testRiderPayment.cal" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +220,7 @@
       <workItem from="1694712258771" duration="869000" />
       <workItem from="1694724927949" duration="3687000" />
       <workItem from="1694804691943" duration="193000" />
-      <workItem from="1694845049792" duration="12596000" />
+      <workItem from="1694845049792" duration="17595000" />
     </task>
     <servers />
   </component>
