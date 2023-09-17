@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="493fbd9f-e289-4dfc-b583-47866c96ebee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignments/riderCommission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/RiderCommission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/testRiderPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/testRiderPayment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +108,7 @@
       <recent name="Basic_Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RiderCommissionTest">
+  <component name="RunManager" selected="JUnit.RiderCommissionTest.testCanCalculateWage">
     <configuration name="RiderCommissionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tosinFaith" />
       <option name="PACKAGE_NAME" value="" />
@@ -130,21 +128,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RiderCommissionTest.testCanCalculateWage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tosinFaith" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RiderCommissionTest" />
+      <option name="METHOD_NAME" value="testCanCalculateWage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testRiderPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tosinFaith" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="testRiderPayment" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testRiderPayment.cal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tosinFaith" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testRiderPayment" />
-      <option name="METHOD_NAME" value="cal" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RiderCommissionTest.testCanCalculateWage" />
         <item itemvalue="JUnit.RiderCommissionTest" />
         <item itemvalue="JUnit.RiderCommissionTest.testCanCalculateIncome" />
         <item itemvalue="JUnit.testRiderPayment" />
         <item itemvalue="JUnit.testRiderPayment.testCanCalculateRiderCommission" />
-        <item itemvalue="JUnit.testRiderPayment.cal" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +218,8 @@
       <workItem from="1694712258771" duration="869000" />
       <workItem from="1694724927949" duration="3687000" />
       <workItem from="1694804691943" duration="193000" />
-      <workItem from="1694845049792" duration="17595000" />
+      <workItem from="1694845049792" duration="17994000" />
+      <workItem from="1694919914289" duration="1790000" />
     </task>
     <servers />
   </component>
@@ -369,7 +368,7 @@
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/testRiderPayment.java</url>
+          <url>file://$PROJECT_DIR$/test/RiderCommissionTest.java</url>
           <line>14</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
