@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493fbd9f-e289-4dfc-b583-47866c96ebee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Assignments/TestDrillerUTME.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testDrillerUTME.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +110,7 @@
       <recent name="Basic_Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RiderCommissionTest.testCanCalculateWage">
+  <component name="RunManager" selected="JUnit.RiderCommissionTest.testCanCalculateSalary">
     <configuration name="RiderCommissionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tosinFaith" />
       <option name="PACKAGE_NAME" value="" />
@@ -128,6 +130,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RiderCommissionTest.testCanCalculateSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tosinFaith" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RiderCommissionTest" />
+      <option name="METHOD_NAME" value="testCanCalculateSalary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RiderCommissionTest.testCanCalculateWage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tosinFaith" />
       <option name="PACKAGE_NAME" value="" />
@@ -138,32 +150,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testRiderPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testDrillerUTME" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tosinFaith" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testRiderPayment" />
+      <option name="MAIN_CLASS_NAME" value="testDrillerUTME" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testRiderPayment.testCanCalculateRiderCommission" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tosinFaith" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testRiderPayment" />
-      <option name="METHOD_NAME" value="testCanCalculateRiderCommission" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RiderCommissionTest.testCanCalculateSalary" />
+        <item itemvalue="JUnit.testDrillerUTME" />
         <item itemvalue="JUnit.RiderCommissionTest.testCanCalculateWage" />
         <item itemvalue="JUnit.RiderCommissionTest" />
         <item itemvalue="JUnit.RiderCommissionTest.testCanCalculateIncome" />
-        <item itemvalue="JUnit.testRiderPayment" />
-        <item itemvalue="JUnit.testRiderPayment.testCanCalculateRiderCommission" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +222,7 @@
       <workItem from="1694804691943" duration="193000" />
       <workItem from="1694845049792" duration="17994000" />
       <workItem from="1694919914289" duration="1790000" />
+      <workItem from="1694958878087" duration="5971000" />
     </task>
     <servers />
   </component>
