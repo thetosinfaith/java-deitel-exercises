@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493fbd9f-e289-4dfc-b583-47866c96ebee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignments/TestDrillerUTME.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/testDrillerUTME.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MutiplyTwoValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testMultiplyTwoValues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/TestDrillerUTME.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/TestDrillerUTME.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/testDrillerUTME.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/testDrillerUTME.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +96,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
       <recent name="Assignments" />
       <recent name="ChapterTwo" />
     </key>
@@ -110,62 +114,67 @@
       <recent name="Basic_Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RiderCommissionTest.testCanCalculateSalary">
-    <configuration name="RiderCommissionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.FactorialCalculator">
+    <configuration name="FactorialCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments.FactorialCalculator" />
       <module name="tosinFaith" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RiderCommissionTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RiderCommissionTest.testCanCalculateIncome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tosinFaith" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RiderCommissionTest" />
-      <option name="METHOD_NAME" value="testCanCalculateIncome" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RiderCommissionTest.testCanCalculateSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tosinFaith" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RiderCommissionTest" />
-      <option name="METHOD_NAME" value="testCanCalculateSalary" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RiderCommissionTest.testCanCalculateWage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tosinFaith" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RiderCommissionTest" />
-      <option name="METHOD_NAME" value="testCanCalculateWage" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testDrillerUTME" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testDrillerUTME.testPriceReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tosinFaith" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="testDrillerUTME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="testPriceReturn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testDrillerUTME.testPriceToBuyer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tosinFaith" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testDrillerUTME" />
+      <option name="METHOD_NAME" value="testPriceToBuyer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testDrillerUTME.testReturnPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tosinFaith" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testDrillerUTME" />
+      <option name="METHOD_NAME" value="testReturnPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testMultiplyTwoValues.testCanMultiplyTwoValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tosinFaith" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testMultiplyTwoValues" />
+      <option name="METHOD_NAME" value="testCanMultiplyTwoValues" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RiderCommissionTest.testCanCalculateSalary" />
-        <item itemvalue="JUnit.testDrillerUTME" />
-        <item itemvalue="JUnit.RiderCommissionTest.testCanCalculateWage" />
-        <item itemvalue="JUnit.RiderCommissionTest" />
-        <item itemvalue="JUnit.RiderCommissionTest.testCanCalculateIncome" />
+        <item itemvalue="Application.FactorialCalculator" />
+        <item itemvalue="JUnit.testMultiplyTwoValues.testCanMultiplyTwoValues" />
+        <item itemvalue="JUnit.testDrillerUTME.testPriceToBuyer" />
+        <item itemvalue="JUnit.testDrillerUTME.testPriceReturn" />
+        <item itemvalue="JUnit.testDrillerUTME.testReturnPrice" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +231,9 @@
       <workItem from="1694804691943" duration="193000" />
       <workItem from="1694845049792" duration="17994000" />
       <workItem from="1694919914289" duration="1790000" />
-      <workItem from="1694958878087" duration="5971000" />
+      <workItem from="1694958878087" duration="8349000" />
+      <workItem from="1695024558782" duration="51000" />
+      <workItem from="1695140238475" duration="11859000" />
     </task>
     <servers />
   </component>
@@ -375,6 +386,21 @@
           <line>14</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/testDrillerUTME.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/testDrillerUTME.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assignments/TestDrillerUTME.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/test/AutomaticBikeTest.java</url>
           <line>7</line>
@@ -419,6 +445,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/testDrillerUTME.java</url>
+          <line>86</line>
+          <properties class="testDrillerUTME" method="testReturnPrice">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
