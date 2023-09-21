@@ -1,4 +1,4 @@
-package ChapterFour;
+package DeitelJavaProgrammingBook.ChapterFour;
 
 /*Write a Java statement to accomplish each of the following tasks:
         a) Declare variable sum of type int and initialize it to 0.

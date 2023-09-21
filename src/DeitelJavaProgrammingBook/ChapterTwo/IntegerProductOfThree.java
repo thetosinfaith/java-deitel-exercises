@@ -1,4 +1,4 @@
-package ChapterTwo;
+package DeitelJavaProgrammingBook.ChapterTwo;
 
 import java.util.Scanner;
 public class IntegerProductOfThree {

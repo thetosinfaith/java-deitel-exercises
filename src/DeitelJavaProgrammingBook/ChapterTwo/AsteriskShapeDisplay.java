@@ -1,4 +1,4 @@
-package ChapterTwo;
+package DeitelJavaProgrammingBook.ChapterTwo;
 
 public class AsteriskShapeDisplay {
     public static void main(String[] args) {

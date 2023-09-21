@@ -1,4 +1,4 @@
-package CliqueShoppa;
+package DeitelJavaProgrammingBook.ChapterThree;
 
 import java.util.Scanner;
 

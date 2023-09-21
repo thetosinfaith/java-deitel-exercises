@@ -8,7 +8,7 @@ class testMultiplyTwoValues {
     public void testCanMultiplyTwoValues() {
         int result  = Function.multiply(0,9);
         assertEquals(0,  result);
-    }
+    } 
 
     }
 

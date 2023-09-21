@@ -1,4 +1,4 @@
-package ChapterTwo;
+package DeitelJavaProgrammingBook.ChapterTwo;
 
 public class BankAccount {
         private int balance;

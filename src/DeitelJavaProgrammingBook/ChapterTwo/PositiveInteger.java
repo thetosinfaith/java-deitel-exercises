@@ -1,4 +1,4 @@
-package ChapterTwo;/*
+package DeitelJavaProgrammingBook.ChapterTwo;/*
 
 Collect user input
 Declare a variable to store the result and make it 1
