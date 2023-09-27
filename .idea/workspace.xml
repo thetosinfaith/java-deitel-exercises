@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493fbd9f-e289-4dfc-b583-47866c96ebee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DeitelJavaProgrammingBook/ChapterTwo/IdentifyAndCorrect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/ArrayVsArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/LearningArrayAndArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/testArrayUberApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeitelJavaProgrammingBook/ChapterFour/WorldPopulationGrowth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeitelJavaProgrammingBook/ChapterFour/WorldPopulationGrowth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeitelJavaProgrammingBook/ChapterTwo/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeitelJavaProgrammingBook/ChapterTwo/IntegerOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeitelJavaProgrammingBook/ChapterTwo/IntegerOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeitelJavaProgrammingBook/ChapterTwo/IntegerProductOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeitelJavaProgrammingBook/ChapterTwo/IntegerProductOfThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DeitelJavaProgrammingBook/ChapterTwo/LargestAndSmallestIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeitelJavaProgrammingBook/ChapterTwo/LargestAndSmallestIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/VariableSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/VariableSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/testDeitelJavaProgrammingBook/testChapterFour/testWorldPopulationGrowth.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/testDeitelJavaProgrammingBook/testChapterFour/testWorldPopulationGrowth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/testDeitelJavaProgrammingBook/testChapterTwo/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/testDeitelJavaProgrammingBook/testChapterTwo/AccountTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +240,7 @@
       <workItem from="1695024558782" duration="51000" />
       <workItem from="1695140238475" duration="29078000" />
       <workItem from="1695625898030" duration="1849000" />
-      <workItem from="1695803470074" duration="17160000" />
+      <workItem from="1695803470074" duration="20084000" />
     </task>
     <servers />
   </component>
