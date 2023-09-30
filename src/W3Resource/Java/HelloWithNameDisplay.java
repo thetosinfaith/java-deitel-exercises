@@ -1,4 +1,4 @@
-package Exercises;
+package W3Resource.Java;
 public class HelloWithNameDisplay {
     public static void main(String[] args) {
 
