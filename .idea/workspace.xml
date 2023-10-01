@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="493fbd9f-e289-4dfc-b583-47866c96ebee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignments/NokiaMobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NokiaMobilePhoneProject/NokiaMobilePhone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,9 +114,9 @@
       <recent name="Basic_Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayOperationsTest.testCorrectlyReversesAnArray">
-    <configuration name="DisplayMyName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.DisplayMyName" />
+  <component name="RunManager" selected="Application.NokiaMobilePhone">
+    <configuration name="HelloWithNameDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W3Resource.Java.HelloWithNameDisplay" />
       <module name="tosinFaith" />
       <extension name="coverage">
         <pattern>
@@ -127,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWithNameDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W3Resource.Java.HelloWithNameDisplay" />
+    <configuration name="NokiaMobilePhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NokiaMobilePhoneProject.NokiaMobilePhone" />
       <module name="tosinFaith" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W3Resource.Java.*" />
+          <option name="PATTERN" value="NokiaMobilePhoneProject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NokiaMobilePhone" />
         <item itemvalue="JUnit.ArrayOperationsTest.testCorrectlyReversesAnArray" />
         <item itemvalue="JUnit.ArrayOperationsTest" />
         <item itemvalue="Application.HelloWithNameDisplay" />
         <item itemvalue="Application.StoreInArrays" />
-        <item itemvalue="Application.DisplayMyName" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +244,7 @@
       <workItem from="1695884681809" duration="17916000" />
       <workItem from="1696080386824" duration="8746000" />
       <workItem from="1696151079623" duration="3154000" />
-      <workItem from="1696162832730" duration="11312000" />
+      <workItem from="1696162832730" duration="11949000" />
     </task>
     <servers />
   </component>
