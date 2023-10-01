@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493fbd9f-e289-4dfc-b583-47866c96ebee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignments/NokiaMobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NokiaMobilePhoneProject/NokiaMobilePhone.java" afterDir="false" />
-    </list>
+    <list default="true" id="493fbd9f-e289-4dfc-b583-47866c96ebee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +241,7 @@
       <workItem from="1695884681809" duration="17916000" />
       <workItem from="1696080386824" duration="8746000" />
       <workItem from="1696151079623" duration="3154000" />
-      <workItem from="1696162832730" duration="11949000" />
+      <workItem from="1696162832730" duration="12426000" />
     </task>
     <servers />
   </component>
